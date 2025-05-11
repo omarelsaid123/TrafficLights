@@ -18,7 +18,7 @@ while True:
     lights.amber.off()
     
     lights.red.on()
-    print("ped cross")
+    print("pedistrian cross")
     buzzer.beep()
     sleep(7)
     
